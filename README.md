@@ -1,6 +1,6 @@
 <div>
     <h4>Pranjul Mishra</h4>
-    <h2>Senior Dev.</h2>
+    <h6>Senior Dev.</h6>
 </div>
 <div>
     <a href="mailto:wowo0201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/knowpranjul@outlook.com-EA4335?style=flat-square&logo=Outlook&logoColor=blue"/></a>
