@@ -1,5 +1,5 @@
 <div>
-    <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreatlaboratory"/></a>
+    <h4>Pranjul Mishra</h4>
 </div>
 <div>
     <a href="mailto:wowo0201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/knowpranjul@outlook.com-EA4335?style=flat-square&logo=Outlook&logoColor=blue"/></a>
