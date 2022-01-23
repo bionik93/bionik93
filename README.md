@@ -1,9 +1,10 @@
 <div>
     <h4>Pranjul Mishra</h4>
+    <h2>Senior Dev.</h2>
 </div>
 <div>
     <a href="mailto:wowo0201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/knowpranjul@outlook.com-EA4335?style=flat-square&logo=Outlook&logoColor=blue"/></a>
-    <a href="https://www.linkedin.com/in/knowpranjul/" target="_blank"><img src="https://img.shields.io/badge/Pranjul_Mishra-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/knowpranjul/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </div>
 
 <br>
@@ -24,7 +25,7 @@
     <div>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
     </div>
         <div>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
