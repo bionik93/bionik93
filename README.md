@@ -2,9 +2,8 @@
     <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgreatlaboratory"/></a>
 </div>
 <div>
-<!--     <a href="http://greatlaboratory.dev/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
     <a href="mailto:wowo0201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/knowpranjul@outlook.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/knowpranjul/" target="_blank"><img src="https://img.shields.io/badge/Myunggwan_Kim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/knowpranjul/" target="_blank"><img src="https://img.shields.io/badge/Pranjul Mishra?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </div>
 
 <br>
@@ -12,7 +11,7 @@
 ### 👀 Introduce
 
 <div>
-    👋&nbsp; Hi there! I'm <b>Full Stack application developer</b> using NodeJS and React. 🚀<br/>
+    👋&nbsp; Hi there! I'm <b>MERN Stack application developer</b> using NodeJS and React. 🚀<br/>
     I'm interested in Machine learning, design pattern, clean code. 🤖<br/><br/>
     I have passion for Drums and playing Badminton. <br/>
 </div>
